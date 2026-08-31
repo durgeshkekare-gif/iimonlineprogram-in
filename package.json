@@ -1,5 +1,11 @@
 {
-  "name": "iimonlineprogramin",
+  "name": "iimonlineprogram-in",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "googleapis": "^128.0.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
 }
